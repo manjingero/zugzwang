@@ -6,7 +6,6 @@ A tool to exploit all jailbroken devices owned by clueless people
 
 # Usage notes
 * install module http://www.paramiko.org/installing.html
-* this py file simply contains the ssh part of the code
 * simply launch and type in your host machine's IP and then scan ranges
 * program will automatically check if they are open/vulnerable on port 22
 
